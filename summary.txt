@@ -1,0 +1,173 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         203
+	Longest value:         7 characters
+	Most common values:    J000288 (7x)
+	                       W000798 (7x)
+	                       D000614 (6x)
+	                       B001293 (5x)
+	                       G000289 (5x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         203
+	Longest value:         33 characters
+	Most common values:    HON. HENRY C. "HANK" JOHNSON  JR. (7x)
+	                       HON. TIM WALBERG (7x)
+	                       HON. SEAN P. DUFFY (6x)
+	                       HON. MIKE BISHOP (5x)
+	                       HON. BOB GOODLATTE (5x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (432x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (432x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         30 characters
+	Most common values:    RENT  COMMUNICATION  UTILITIES (432x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         68
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-01-19 (23x)
+	                       2017-03-21 (21x)
+	                       2017-02-17 (16x)
+	                       2017-03-22 (16x)
+	                       2017-03-02 (15x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (432x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         388
+	Longest value:         8 characters
+	Most common values:    900647 (18x)
+	                       912200 (15x)
+	                       904174 (13x)
+	                       E0481829 (2x)
+	                       E0487563 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         68
+	Longest value:         40 characters
+	Most common values:    AT&T (69x)
+	                       VERIZON WIRELESS (44x)
+	                       AT & T (31x)
+	                       KYVON (29x)
+	                       CONSTITUENT TOWN HALL SERVICES (24x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         126
+	Smallest value:        2015-02-01
+	Largest value:         2017-03-20
+	Most common values:    2016-11-29 (23x)
+	                       2017-01-29 (19x)
+	                       2017-01-01 (19x)
+	                       2017-03-01 (18x)
+	                       2017-02-01 (14x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         116
+	Smallest value:        2015-09-01
+	Largest value:         2018-12-31
+	Most common values:    2017-02-28 (33x)
+	                       2016-12-28 (22x)
+	                       2017-01-31 (18x)
+	                       2016-12-31 (15x)
+	                       2017-02-15 (14x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         25 characters
+	Most common values:    TELECOMSRV/EQ/TOLL CHARGE (432x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         392
+	Smallest value:        1,006.46
+	Largest value:         20,000
+	Sum:                   1,096,759.67
+	Mean:                  2,538.796
+	Median:                1,887.045
+	StDev:                 1,940.391
+	Most common values:    1,995 (4x)
+	                       2,600 (4x)
+	                       3,000 (4x)
+	                       2,860 (4x)
+	                       2,250 (3x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2,015
+	Largest value:         2,018
+	Sum:                   871,232
+	Mean:                  2,016.741
+	Median:                2,017
+	StDev:                 0.459
+	Most common values:    2,017 (315x)
+	                       2,016 (113x)
+	                       2,018 (3x)
+	                       2,015 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         68
+	Longest value:         40 characters
+	Most common values:    AT&T (69x)
+	                       VERIZON WIRELESS (44x)
+	                       AT & T (31x)
+	                       KYVON (29x)
+	                       CONSTITUENT TOWN HALL SERVICES (24x)
+
+Row count: 432

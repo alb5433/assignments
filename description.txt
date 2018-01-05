@@ -1,0 +1,1 @@
+I looked at telecommunications expenses (mostly phone services) over $1000. I addeed another line in the filter.py program to only identify members of congress. 432 members spend over $1000 on phone services with the mean expense being around $2500 and the highest being $20000.
