@@ -12,3 +12,7 @@ def subtract (x,y):
 def divide (x,y):
 	return (x / y)
 
+print "I'm going use the calculator functions to multiply Value-1 and Value_2"
+z = multiply(x,y)
+print "The answer is... "
+print z
